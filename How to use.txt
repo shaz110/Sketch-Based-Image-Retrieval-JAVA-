@@ -1,0 +1,13 @@
+1.Open the project with netbeans ide 7 or greater.
+
+2.Build the project 
+
+3.Upon opening of the window form, select file option. 
+
+4.File -> Create ---> Go to the sbsr project and ctrl a all the pictures and save them with a name for example 'shapesdb' 
+
+5.File --> Load ---> Now select the database you created. 
+
+6.Draw anyshape on the canvas and press search 
+
+7.It will show you the relevant pictures from the internet. 
